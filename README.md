@@ -307,4 +307,4 @@ python privacy_audit.py                             # 扫描项目里是否残�
 
 ---
 
-_仅供个人聊天记录备份与查阅使用。_
+_仅供个人聊天记录备份与查阅使用。_聊天记录推荐使用BiliBili_Private_Msg项目爬取，谢谢。
