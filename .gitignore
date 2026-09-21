@@ -1,0 +1,30 @@
+# ---- 构建产物中的单文件网页是有意提交的，见 README ----
+# 如需忽略，取消下面这行的注释
+# dist/
+
+# 测试与调试产物
+shots/
+dl/
+subset.txt
+export-sample.html
+*.log
+
+# 临时文件
+__pycache__/
+*.pyc
+*.pyo
+.edge-*
+assets/_biliEmoji.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 本地隐私词表（发布前自检用，不应提交）
+.private-words
